@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "0": 7,
+      "username": "conanobrien",
+      "fullname": null,
+      "password": "c998005d28f9e11c3f51be5f927e7e0e120a320f",
+      "id": 1,
+      "likes": [
+        3
+      ]
+    },
+    {
+      "username": "murat",
+      "fullname": "murat",
+      "password": "c998005d28f9e11c3f51be5f927e7e0e120a320f",
+      "id": 2,
+      "likes": [
+        1,
+        2,
+        3,
+        5
+      ]
+    }
+  ],
+  "bookmarks": [
+    {
+      "head": "vue",
+      "url": "vue.com",
+      "categoryId": 1,
+      "description": "vueeeeeeeee",
+      "userId": 1,
+      "created_At": "2023-01-31T14:26:41.774Z",
+      "id": 1
+    },
+    {
+      "head": "angular",
+      "url": "angular.com",
+      "categoryId": 5,
+      "description": "angularrrrrrrrrrr",
+      "userId": 1,
+      "created_At": "2023-01-31T14:29:16.847Z",
+      "id": 2
+    },
+    {
+      "head": "react",
+      "url": "react.com",
+      "categoryId": 2,
+      "description": "reactttttttttttt",
+      "userId": 1,
+      "created_At": "2023-01-31T14:30:02.110Z",
+      "id": 3
+    },
+    {
+      "head": "svelte",
+      "url": "svelte.com",
+      "categoryId": 3,
+      "description": "svelteeee",
+      "userId": 1,
+      "created_At": "2023-01-31T14:31:09.837Z",
+      "id": 4
+    },
+    {
+      "head": "node",
+      "url": "node.com",
+      "categoryId": 4,
+      "description": "nodeeeeeee",
+      "userId": 1,
+      "created_At": "2023-01-31T14:34:40.974Z",
+      "id": 5
+    },
+    {
+      "head": "falan filan",
+      "url": "vue.com",
+      "categoryId": 1,
+      "description": "vue2",
+      "userId": 1,
+      "created_At": "2023-01-31T20:53:14.637Z",
+      "id": 6
+    },
+    {
+      "head": "murat",
+      "url": "murat.com",
+      "categoryId": 2,
+      "description": "afafafafafa",
+      "userId": 2,
+      "created_At": "2023-02-01T19:13:34.707Z",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "category": "vuejs",
+      "id": 1
+    },
+    {
+      "category": "react.js",
+      "id": 2
+    },
+    {
+      "category": "svelte.js",
+      "id": 3
+    },
+    {
+      "category": "node.js",
+      "id": 4
+    },
+    {
+      "category": "angular.js",
+      "id": 5
+    }
+  ]
+}
